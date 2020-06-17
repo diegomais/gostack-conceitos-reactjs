@@ -5,7 +5,7 @@ jobs:
     docker:
       - image: circleci/node:lts
 
-    working_directory: ~/repo
+    working_directory: ~/workdir
 
     steps:
       - checkout
@@ -30,8 +30,9 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       - run:
-          name: Run Test and Coverage
+          name: Run test and send coverage to Code Climate and Codacy
           command: |
             ./cc-test-reporter before-build
             yarn test -- --coverage
             ./cc-test-reporter after-build --exit-code $?
+            bash <(curl -Ls https://coverage.codacy.com/get.sh)
