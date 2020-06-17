@@ -11,7 +11,7 @@
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diegomais/gostack-conceitos-reactjs">
   
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/diegomais/gostack-conceitos-nodejs">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/diegomais/gostack-conceitos-reactjs">
   
   <img alt="License" src="https://img.shields.io/github/license/diegomais/gostack-conceitos-reactjs">
   
