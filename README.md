@@ -9,7 +9,9 @@
 <p align="center">
   <img alt="CircleCI" src="https://circleci.com/gh/diegomais/gostack-conceitos-reactjs.svg?style=shield&circle-token=02175be186bdd53dd90c9a4f4eb103949e1ec557" />
   
-  <img alt="Codacy coverage" src="https://app.codacy.com/project/badge/Grade/d6ab63071323458092261a1c33f66695" />
+  <img alt="Codacy code quality" src="https://app.codacy.com/project/badge/Grade/d6ab63071323458092261a1c33f66695" />
+  
+  <img alt="Codacy coverage" src="https://app.codacy.com/project/badge/Coverage/d6ab63071323458092261a1c33f66695" />
   
   <img alt="Code Climate maintainability" src="https://img.shields.io/codeclimate/maintainability-percentage/diegomais/gostack-conceitos-reactjs" />
 
