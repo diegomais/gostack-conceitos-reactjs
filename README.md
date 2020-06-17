@@ -7,19 +7,21 @@
 <p align="center">“Faça seu melhor, mas sempre com prazo de entrega”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diegomais/gostack-conceitos-reactjs?color=%2304D361">
+  <img alt="CircleCI" src="https://circleci.com/gh/diegomais/gostack-conceitos-reactjs.svg?style=shield&circle-token=02175be186bdd53dd90c9a4f4eb103949e1ec557" />
 
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diegomais/gostack-conceitos-reactjs">
+  
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/diegomais/gostack-conceitos-nodejs">
+  
+  <img alt="License" src="https://img.shields.io/github/license/diegomais/gostack-conceitos-reactjs">
+  
   <a href="https://diegomais.github.io">
-    <img alt="Made by Diego Mais" src="https://img.shields.io/badge/made%20by-Diego%20Mais-%2304D361">
+    <img alt="Made by Diego Mais" src="https://img.shields.io/badge/made%20by-Diego%20Mais-green">
   </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
 </p>
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -60,10 +62,6 @@ Para esse desafio temos os seguintes testes:
 - **`should be able to add new repository`**: Para que esse teste passe, sua aplicação deve permitir que um repositório seja adicionado ao seu backend e listado no seu frontend dentro de uma `LI`.
 
 - **`should be able to remove repository`**: Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da `LI` do repositório adicionado, o item seja removido da listagem.
-
-## :calendar: Entrega
-
-Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do repositório que você fez suas alterações. Após concluir o desafio, fazer um post no Linkedin e postar o código no Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
 
 ## :memo: Licença
 
