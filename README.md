@@ -8,6 +8,10 @@
 
 <p align="center">
   <img alt="CircleCI" src="https://circleci.com/gh/diegomais/gostack-conceitos-reactjs.svg?style=shield&circle-token=02175be186bdd53dd90c9a4f4eb103949e1ec557" />
+  
+  <img alt="Code Climate maintainability" src="https://img.shields.io/codeclimate/maintainability-percentage/diegomais/gostack-conceitos-reactjs" />
+
+  <img alt="Code Climate coverage" src="https://img.shields.io/codeclimate/coverage/diegomais/gostack-conceitos-reactjs" />
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diegomais/gostack-conceitos-reactjs">
   
